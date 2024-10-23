@@ -1,0 +1,17 @@
+actual_position: -7.02365 Tx start alignment               encoder_count: 449527
+actual_position: -7.029 testing stage. start               encoder_count: 449420
+actual_position: -7.2001 small move neg               encoder_count: 445999
+actual_position: -6.9999 small move pos               encoder_count: 450002
+actual_position: -10.00005 large move neg               encoder_count: 389999
+actual_position: -13.29285 low limit hit 1               encoder_count: 324143
+actual_position: -12.9999 low limit back2               encoder_count: 330002
+actual_position: -13.29285 low limit hit 2 at 0.2mm/s               encoder_count: 324143
+actual_position: -13.00005 low limit back3               encoder_count: 329999
+actual_position: -13.29085 low limit hit 3 at 0.2mm/s               encoder_count: 324183
+actual_position: 3.00005 upp limit travel ready to hit. travel at 0.3mm/s               encoder_count: 650001
+actual_position: 3.25325 up limit hit 1 at 0.2mm/s               encoder_count: 655065
+actual_position: 2.9999 up limit back2               encoder_count: 649998
+actual_position: 3.24085 up limit hit 2 at 0.2mm/s               encoder_count: 654817
+actual_position: 2.99995 up limit back3               encoder_count: 649999
+actual_position: 3.24085 up limit hit 3 at 0.2mm/s               encoder_count: 654817
+actual_position: -0.0001 tx zero               encoder_count: 589998

@@ -1,0 +1,17 @@
+actual_position: 5.488298 DCCM Alignment Start TH1               encoder_count: 29650191
+actual_position: 5.299914 Small move negative. From 5.48 to 5.3 at 0.1 deg/s               encoder_count: 29321375
+actual_position: 5.500087 Small move positive. 5.3 to 5.5 at 0.1deg/s               encoder_count: 29670732
+actual_position: 2.999944 larger move to 3 to verify motion direction               encoder_count: 25307190
+actual_position: -5.4e-05 larger move to 0               encoder_count: 20071193
+actual_position: -1.60003 move to lower limit - 1.6               encoder_count: 17278718
+actual_position: -1.600031 hit lower limit - 1.6               encoder_count: 17278699
+actual_position: 71.000067 move to upper limit               encoder_count: 143989768
+actual_position: 71.315415 hit upper limit               encoder_count: 144540178
+actual_position: 69.999913 move backt upper limit 2               encoder_count: 142244182
+actual_position: 71.429476 hit upper limit 2 th1               encoder_count: 144739246
+actual_position: 70.999926 move backt upper limit 3               encoder_count: 143989528
+actual_position: 71.349457 hit upper limit 3 th1               encoder_count: 144599565
+actual_position: -1.605302 hit lower limit 2               encoder_count: 17269500
+actual_position: 2.000073 back off lower limit 2               encoder_count: 23562071
+actual_position: -1.637755 hit lower limit 3               encoder_count: 17212852
+actual_position: 6.8e-05 th1 zero done               encoder_count: 20071408

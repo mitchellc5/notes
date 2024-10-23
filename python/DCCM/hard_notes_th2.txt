@@ -1,0 +1,18 @@
+actual_position: 5.499974 start testing th2               encoder_count: 28274291
+actual_position: 5.299922 small move th2               encoder_count: 27925145
+actual_position: 5.500069 small move th2 positive               encoder_count: 28274459
+actual_position: 2.999962 larger move th2 negative               encoder_count: 23910941
+actual_position: -7.1e-05 larger move th2 zero               encoder_count: 18674883
+actual_position: -1.583447 hit ll th2               encoder_count: 15911377
+actual_position: -1.099942 back off ll th2               encoder_count: 16755238
+actual_position: -1.564432 hit ll th2 2               encoder_count: 15944581
+actual_position: -1.09996 back off ll th2 2               encoder_count: 16755232
+actual_position: -1.560432 hit ll th2 3               encoder_count: 15951560
+actual_position: 71.000053 Th2 ready to hit ul               encoder_count: 142593492
+actual_position: 71.613715 Th2 hit ul 1               encoder_count: 143664522
+actual_position: 67.999931 Th2 back off ul 2               encoder_count: 137357294
+actual_position: 71.576534 Th2 hit ul 2               encoder_count: 143599639
+actual_position: 67.999931 Th2 back off ul 3               encoder_count: 137357297
+actual_position: 71.561444 Th2 hit ul 3               encoder_count: 143573290
+actual_position: -6.4e-05 th2 zero               encoder_count: 18674905
+actual_position: -4.5e-05 TH2 zero               encoder_count: 18674932
